@@ -65,3 +65,7 @@ function alerta (texto) {
 
 alerta(mensagem);
 alerta(mensagem + " 2");
+
+window.setTimeout(function () {
+	console.log("abc" + 123);
+}, 1000)
