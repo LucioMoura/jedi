@@ -5,5 +5,4 @@ console.log("Olá seja bem vindo ao curso: " + curso);
 for (let index = 0; index < 11; index++){// forma síncrona 
 	console.log(index);
 }
-
 console.log("Este curso é 10!");
