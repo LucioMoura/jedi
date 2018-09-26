@@ -1,4 +1,3 @@
-
 //console.log ("Carregando via arquivo externo!"); Primeira Aula
 
 
@@ -34,5 +33,4 @@ function eventoClick(){
 // passo 3 - exibir uma mensagem no console1
 
 
-// Debugar Chrome - aba Sources 
-
+// Debugar Chrome - aba Sources
